@@ -15,7 +15,7 @@ function negativeResult() {
     document.getElementById("resultrice").style.display = "block";
     document.getElementById("resultrice").innerHTML = `
     <img src="./Rice Blast.jpg" alt="White Clover Mosaic" width=70px height=70px><br>
-        <strong>Rice Blast -<i> Magnaporthe grisea</i>:</strong>
+    <strong>Rice Blast - <em>Magnaporthe grisea</em>:</strong>
          This is a fungal disease that affects rice. Systemic fungicides like pyroquilon and tricyclazole can help control it.<br>
         Systemic fungicides such as pyroquilon and tricyclazole are possible chemicals for controlling the disease.<br>
 
