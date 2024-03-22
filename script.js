@@ -199,7 +199,7 @@ function negativeResultMaize() {
     document.getElementById("resultmaize").style.display = "block";
     document.getElementById("resultmaize").innerHTML = `
     <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-        <strong>Downy mildew - Peronospora parasitica:</strong> Downy mildew is a fungal disease that affects maize. Control measures include using disease-free healthy seeds, drying seeds to less than 14% moisture, implementing deep tillage and crop rotations for more than three years, roguing of diseased plants and alternate grass hosts, seed treatment with metalaxyl, and foliar spray with metalaxyl + mancozeb or mancozeb after initial symptoms.<br>
+        <strong>Downy mildew - <em>Peronospora parasitica</em>:</strong> Downy mildew is a fungal disease that affects maize. Control measures include using disease-free healthy seeds, drying seeds to less than 14% moisture, implementing deep tillage and crop rotations for more than three years, roguing of diseased plants and alternate grass hosts, seed treatment with metalaxyl, and foliar spray with metalaxyl + mancozeb or mancozeb after initial symptoms.<br>
         Treatment:<br>
         - Use disease-free healthy seeds.<br>
         - Dry seeds to less than 14% moisture.<br>
@@ -210,17 +210,17 @@ function negativeResultMaize() {
 
 
         <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-        <strong>Rust - Puccinia sorghi:</strong>  Rust is a fungal disease that affects maize. Fungicides containing mancozeb, pyraclostrobin, pyraclostrobin + metconazole, pyraclostrobin + fluxapyroxad, azoxystrobin + propiconazole, trifloxystrobin + prothioconazole can be used to control it.<br>
+        <strong>Rust - <em>Puccinia sorghi</em>:</strong>  Rust is a fungal disease that affects maize. Fungicides containing mancozeb, pyraclostrobin, pyraclostrobin + metconazole, pyraclostrobin + fluxapyroxad, azoxystrobin + propiconazole, trifloxystrobin + prothioconazole can be used to control it.<br>
         Treatment: Numerous fungicides are available for rust control. Products containing mancozeb, pyraclostrobin, pyraclostrobin + metconazole, pyraclostrobin + fluxapyroxad, azoxystrobin + propiconazole, trifloxystrobin + prothioconazole can be used to control the disease.<br><br>
 
 
         <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-        <strong>Leaf Blight - Cochliobolus heterostrophus:</strong> Leaf blight is a fungal disease that affects maize. Daconil fungicides offer three-way protection to prevent leaf blight and control active diseases.<br>
+        <strong>Leaf Blight - <em>Cochliobolus heterostrophus<em>:</strong> Leaf blight is a fungal disease that affects maize. Daconil fungicides offer three-way protection to prevent leaf blight and control active diseases.<br>
         Treatment: Daconil fungicides offer three-way protection to prevent leaf blight and to stop and control active diseases.<br><br>
 
 
         <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-        <strong>Turcicum blight - Exserohilum turcicum & Helminthosporium maydis:</strong> Turcicum blight is a fungal disease that affects maize. Fungicides like mancozeb and combination treatments of carbendazim and mancozeb can reduce the disease.<br>
+        <strong>Turcicum blight - <em>Exserohilum turcicum & Helminthosporium maydis<em>:</strong> Turcicum blight is a fungal disease that affects maize. Fungicides like mancozeb and combination treatments of carbendazim and mancozeb can reduce the disease.<br>
         Treatment: Seven fungicides were evaluated in vitro against Exserohilum turcicum causing leaf blight of maize. The treatment mancozeb 0.25% and combination treatments of carbendazim and mancozeb i.e. saff 0.25% recorded the lowest percent disease index (PDI) reducing the disease by 73.0% and 72.1% respectively.<br>
     `;
 }
@@ -236,7 +236,7 @@ function negativeResultFieldMustard() {
     document.getElementById("resultfieldmustard").innerHTML = `
 
     <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-        <strong>Bacterial black rot - Xanthomonas campestris pv. campestris:</strong> Bacterial black rot is a seed-borne disease that affects mustard plants. Treatment includes seed treatment with mercuric chloride, hot water treatment of seeds, a three-year crop rotation, and maintaining strict sanitary precautions.<br>
+        <strong>Bacterial black rot - <em>Xanthomonas campestris pv. campestris</em>:</strong> Bacterial black rot is a seed-borne disease that affects mustard plants. Treatment includes seed treatment with mercuric chloride, hot water treatment of seeds, a three-year crop rotation, and maintaining strict sanitary precautions.<br>
         Treatment:<br>
         - Seed treatment with mercuric chloride for half an hour is effective in eradicating seed-borne infection.<br>
         - Hot water treatment of the seed at 50°C for 30 minutes is also effective.<br>
@@ -245,19 +245,19 @@ function negativeResultFieldMustard() {
 
 
         <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-        <strong>White Rust - Albugo candida:</strong>  White rust is a fungal disease that affects mustard plants. Treatment options include seed treatment with Trichoderma viride, soil application of Trichoderma viride along with copper oxychloride, and the use of garlic extract as alternatives to systemic fungicides.<br>
+        <strong>White Rust - <em>Albugo candida</em>:</strong>  White rust is a fungal disease that affects mustard plants. Treatment options include seed treatment with Trichoderma viride, soil application of Trichoderma viride along with copper oxychloride, and the use of garlic extract as alternatives to systemic fungicides.<br>
         Treatment: T. viride seed treatment and soil application along with copper oxychloride and also garlic extract were found as suitable alternatives for the systemic fungicides for managing white rust especially in organic mustard production.<br><br>
 
         <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-        <strong>Sclerotinia White Mould - Sclerotinia sclerotiorum:</strong> Sclerotinia white mould is a fungal disease that affects mustard plants. Aviator (bixafen + prothioconazole) is an effective fungicide for controlling Sclerotinia and other diseases like light leaf spot.<br>
+        <strong>Sclerotinia White Mould - <em>Sclerotinia sclerotiorum</em>:</strong> Sclerotinia white mould is a fungal disease that affects mustard plants. Aviator (bixafen + prothioconazole) is an effective fungicide for controlling Sclerotinia and other diseases like light leaf spot.<br>
         Treatment: Aviator (bixafen + prothioconazole) provides the most effective control of Sclerotinia as well as other important diseases, such as light leaf spot.<br><br>
 
         <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-        <strong>Aster Yellows - Aster Yellows Phytoplasma:</strong> Aster yellows is a disease caused by a phytoplasma that affects mustard plants. Once a plant is infected, there is no cure. Infected plants should be removed, and perennial weeds should be controlled to prevent the pathogen from surviving in the field.<br>
+        <strong>Aster Yellows - <em>Aster Yellows Phytoplasma</em>:</strong> Aster yellows is a disease caused by a phytoplasma that affects mustard plants. Once a plant is infected, there is no cure. Infected plants should be removed, and perennial weeds should be controlled to prevent the pathogen from surviving in the field.<br>
         Treatment: Once aster yellows infects a plant, there is no way to cure it. Remove infected plants. Control perennial weeds. If infected by the aster yellows phytoplasma, these plants allow the pathogen to survive in the field from one year to the next.<br><br>
 
         <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-        <strong>Downy Mildew - Hyaloperonospora parasitica:</strong> Aster yellows is a disease caused by a phytoplasma that affects mustard plants. Once a plant is infected, there is no cure. Infected plants should be removed, and perennial weeds should be controlled to prevent the pathogen from surviving in the field.<br>
+        <strong>Downy Mildew - <em>Hyaloperonospora parasitica</em>:</strong> Aster yellows is a disease caused by a phytoplasma that affects mustard plants. Once a plant is infected, there is no cure. Infected plants should be removed, and perennial weeds should be controlled to prevent the pathogen from surviving in the field.<br>
         Treatment: Copper fungicides are often used to control downy mildew. While many people believe copper is approved for organic production, it is only conditionally approved.
     `;
 }
@@ -273,22 +273,22 @@ function negativeResultCucumber() {
     document.getElementById("resultcucumber").style.display = "block";
     document.getElementById("resultcucumber").innerHTML = `
     <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-        <strong>Angular Leaf Spot - Pseudomonas syringae:</strong> Angular leaf spot is a bacterial disease that affects cucumbers. Treatment options include hot water treatment to remove some bacteria, crop rotation to avoid planting squash family members in the same location for at least two years, and using drip irrigation instead of overhead sprinklers.
+        <strong>Angular Leaf Spot - <em>Pseudomonas syringae</em>:</strong> Angular leaf spot is a bacterial disease that affects cucumbers. Treatment options include hot water treatment to remove some bacteria, crop rotation to avoid planting squash family members in the same location for at least two years, and using drip irrigation instead of overhead sprinklers.
         Treatment:<br>
         - Hot water treatment can remove some, but not all, bacteria.<br>
         - Rotate vegetables so two or more years go by before planting any member of the squash family in the same location.<br>
         - Use drip irrigation instead of overhead sprinklers if possible.<br><br>
 
         <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-        <strong>Bacterial Wilt - Erwinia tracheiphila:</strong> Bacterial wilt is a disease caused by Erwinia tracheiphila that affects cucumbers. Once a plant is infected, it cannot be controlled. Infected plants should be immediately removed and disposed of by burning or burying.
+        <strong>Bacterial Wilt - <em>Erwinia tracheiphila</em>:</strong> Bacterial wilt is a disease caused by Erwinia tracheiphila that affects cucumbers. Once a plant is infected, it cannot be controlled. Infected plants should be immediately removed and disposed of by burning or burying.
         Treatment: Bacterial wilt cannot be controlled once a plant is infected. In particular, chemical sprays are not effective for control once plants show symptoms. If you find bacterial wilt in your garden, immediately remove infected plants, and dispose of them by burning (where allowed by law) or burying them.<br><br>
 
         <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-        <strong>Phytophthora Crown And Root Rot - Phytophthora capsici:</strong> Phytophthora crown and root rot is a disease caused by Phytophthora capsici that affects cucumbers. Treatment involves removing diseased plants and surrounding healthy-looking border plants. Fungicide treatments have shown positive results in trials.
+        <strong>Phytophthora Crown And Root Rot -<em> Phytophthora capsici</em>:</strong> Phytophthora crown and root rot is a disease caused by Phytophthora capsici that affects cucumbers. Treatment involves removing diseased plants and surrounding healthy-looking border plants. Fungicide treatments have shown positive results in trials.
         Treatment: If Phytophthora is found in the field, remove diseased plants and surrounding healthy-looking border plants. In MSU trials, cucumbers treated with fungicides performed better than untreated plots.<br><br>
 
         <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-        <strong>Downy Mildew - Pseudoperonospora cubensis:</strong> Downy mildew is a fungal disease that affects cucumbers. A homemade remedy can be made by mixing baking soda, water, and liquid soap, with optional addition of vegetable oil, to help control the disease.
+        <strong>Downy Mildew - <em>Pseudoperonospora cubensis</em>:</strong> Downy mildew is a fungal disease that affects cucumbers. A homemade remedy can be made by mixing baking soda, water, and liquid soap, with optional addition of vegetable oil, to help control the disease.
         Treatment: Mix a tablespoon of ordinary baking soda into four litres of water, and stir in a tablespoon of liquid (non-detergent based) soap. Adding a tablespoon of vegetable oil is optional, but helps the mixture stick to the leaves.
     `;
 }
@@ -307,10 +307,10 @@ function negativeResultWatermelon() {
 document.getElementById("resultwatermelon").style.display = "block";
 document.getElementById("resultwatermelon").innerHTML = `
 <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-<strong>Downy Mildew - Pseudoperonospora cubensis:</strong> Downy mildew is a fungal disease that affects watermelons. Organic controls include spraying a mixture of milk and water or a mixture of baking soda and water on affected foliage weekly.  <br>
+<strong>Downy Mildew - <em>Pseudoperonospora cubensis</em>:</strong> Downy mildew is a fungal disease that affects watermelons. Organic controls include spraying a mixture of milk and water or a mixture of baking soda and water on affected foliage weekly.  <br>
 Treatment: Downy mildew doesn't like warm or dry weather. Organic controls include trying 3 parts of milk to 10 parts of water or one tablespoon of baking soda into one litre of water. Mix either option into a spray container and spray the affected foliage weekly.<br><br>
 
-<strong>Powdery Mildew - Podosphaera xanthii:</strong>  Powdery mildew is a fungal disease that affects watermelons. Treatment options include various homemade remedies like mixing baking soda, vegetable oil, and dish soap in water, using neem oil, vinegar, or mouthwash diluted in water, and spraying the affected foliage.<br>
+<strong>Powdery Mildew - <em>Podosphaera xanthii </em>:</strong>  Powdery mildew is a fungal disease that affects watermelons. Treatment options include various homemade remedies like mixing baking soda, vegetable oil, and dish soap in water, using neem oil, vinegar, or mouthwash diluted in water, and spraying the affected foliage.<br>
 Treatment:
 - Mix 1 tablespoon baking soda with 1 tablespoon vegetable oil and 1 teaspoon dish soap in 1 gallon of water.
 - Mix 4 tablespoons baking soda with 2 tablespoons of Murphy’s oil soap in 1 gallon of water.
@@ -320,19 +320,19 @@ Treatment:
 - Some folks swear by mouthwash as an effective fungicide but it is not organic. They recommend 1 cup mouthwash to 3 cups of water.<br><br>
 
 <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-<strong>Anthracnose - Colletotrichum orbiculare:</strong> Anthracnose is a fungal disease that affects watermelons. Effective fungicides for control include those containing chlorothalonil, copper, propiconazole, and thiophanate-methyl.<br>
+<strong>Anthracnose - <em>Colletotrichum orbiculare</em>:</strong> Anthracnose is a fungal disease that affects watermelons. Effective fungicides for control include those containing chlorothalonil, copper, propiconazole, and thiophanate-methyl.<br>
 Treatment: The most effective fungicides for control are the protective fungicides containing chlorothalonil (e.g., Daconil), copper sprays containing copper diammonia diacetate (e.g., Liquicop), propiconazole (e.g., Banner Maxx II), and the systemic fungicide thiophanate-methyl (e.g., Cleary's 3336, for professional use only).<br><br>
 
 <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-<strong>Alternaria leaf spot - Alternaria cucmerina:</strong> Alternaria leaf spot is a fungal disease that affects watermelons. Control measures include avoiding overhead watering, ensuring good air circulation and sun penetration, and keeping the garden free of fallen leaves.<br>
+<strong>Alternaria leaf spot - </em>Alternaria cucmerina</em>:</strong> Alternaria leaf spot is a fungal disease that affects watermelons. Control measures include avoiding overhead watering, ensuring good air circulation and sun penetration, and keeping the garden free of fallen leaves.<br>
 Treatment: Avoid overhead watering to limit leaf wetness, and allow enough space at planting time for good air circulation and ample sun penetration. Keep your garden free of fallen leaves all season, and especially thorough at fall cleanup time.<br><br>
 
 <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-<strong>Fusarium Wilt - Fusarium oxysporum:</strong>  Fusarium wilt is a fungal disease that affects watermelons. Control is best achieved using resistant or tolerant cultivars and cultural practices like liming soils and using nitrate nitrogen fertilizer.<br>
+<strong>Fusarium Wilt - <em>Fusarium oxysporum</em>:</strong>  Fusarium wilt is a fungal disease that affects watermelons. Control is best achieved using resistant or tolerant cultivars and cultural practices like liming soils and using nitrate nitrogen fertilizer.<br>
 Treatment: Fusarium wilt diseases are best controlled by using resistant or tolerant cultivars, not by using soil applied fungicides. Liming soils and using nitrate nitrogen fertilizer have been effective for management of F. oxysporum on chrysanthemum, aster, gladiolus, cucumber, tomato, and watermelon.<br><br>
 
 <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-<strong>Bud Necrosis disease - Watermelon bud necrosis orthotospovirus (WBNV):</strong> Bud necrosis disease is caused by a virus that affects watermelons. Integrated Pest Management (IPM) modules have been devised to manage the disease by reducing thrips populations and increasing fruit yield.<br>
+<strong>Bud Necrosis disease - <em>Watermelon bud necrosis orthotospovirus (WBNV)</em>:</strong> Bud necrosis disease is caused by a virus that affects watermelons. Integrated Pest Management (IPM) modules have been devised to manage the disease by reducing thrips populations and increasing fruit yield.<br>
 Treatment: For the management of WBNV in watermelon, an Integrated Pest Management (IPM) module has been devised which reduced the thrips population and WBNV incidence to a great extent besides increasing the fruit yield.<br>
 `;
 }
@@ -349,7 +349,7 @@ function negativeResultGuava() {
 document.getElementById("resultguava").style.display = "block";
 document.getElementById("resultguava").innerHTML = `
 <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-<strong>Anthracnose - Colletotrichum gloeosporioides:</strong> 
+<strong>Anthracnose - <em>Colletotrichum gloeosporioides</em>:</strong> 
 
 Anthracnose is a fungal disease that affects guava trees. Cultural practices like pruning infected branches and removing fallen fruit can help reduce the disease's source. Fungicides can also be applied before the flowering season and regularly during fruit development for better control.<br>
 Treatment:
@@ -357,7 +357,7 @@ Treatment:
 - Fungicides: Apply appropriate fungicides before the flowering season to prevent infection. Regular spraying during fruit development is also effective. For better control Spray.<br><br>
 
 <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-<strong>Guava Wilt - Fusarium oxysporum:</strong> Guava wilt is a disease caused by Fusarium oxysporum that affects guava trees. Control measures include choosing resistant varieties, soil sterilization before planting, fungicidal drenches for severely affected trees, and proper irrigation to avoid overly wet conditions.<br>
+<strong>Guava Wilt - <em>Fusarium oxysporum</em>:</strong> Guava wilt is a disease caused by Fusarium oxysporum that affects guava trees. Control measures include choosing resistant varieties, soil sterilization before planting, fungicidal drenches for severely affected trees, and proper irrigation to avoid overly wet conditions.<br>
 Treatment:
 - Resistant Varieties: Choose guava varieties resistant to Fusarium wilt. 
 - Soil Sterilization: Solarize or steam-sterilize the soil before planting to kill pathogens. 
@@ -365,14 +365,14 @@ Treatment:
 - Proper Irrigation: Ensure adequate but not excessive soil moisture, as overly wet conditions can exacerbate wilt.<br><br>
 
 <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-<strong>Powdery Mildew - Oidium psidii:</strong>  Powdery mildew is a fungal disease that affects guava trees. Pruning affected branches, applying sulfur-based fungicides, and using neem oil can help manage the disease.<br>
+<strong>Powdery Mildew -<em> Oidium psidii</em>:</strong>  Powdery mildew is a fungal disease that affects guava trees. Pruning affected branches, applying sulfur-based fungicides, and using neem oil can help manage the disease.<br>
 Treatment:
 - Pruning: Prune affected branches to improve air circulation and sunlight penetration. 
 - Sulfur-Based Fungicides: Apply sulfur-based fungicides as a preventive measure. 
 - Neem Oil: Neem oil can also be effective in managing powdery mildew.<br><br>
 
 <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-<strong>Bacterial Wilt - Erwinia psidii:</strong>  Bacterial wilt is a disease caused by Erwinia psidii that affects guava trees. Control measures include sanitation by removing infected plants, avoiding overhead irrigation, applying copper-based bactericides, and planting resistant varieties.<br>
+<strong>Bacterial Wilt - <em>Erwinia psidii</em>:</strong>  Bacterial wilt is a disease caused by Erwinia psidii that affects guava trees. Control measures include sanitation by removing infected plants, avoiding overhead irrigation, applying copper-based bactericides, and planting resistant varieties.<br>
 Treatment:
 - Sanitation: Remove and destroy infected plants promptly. 
 - Avoid Overhead Irrigation: Use drip irrigation to prevent splashing of bacteria. 
@@ -380,14 +380,14 @@ Treatment:
 - Resistant Varieties: Consider planting guava varieties known for their resistance to bacterial wilt.<br><br>
 
 <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-<strong>Rust - Puccinia psidii:</strong>  Rust is a fungal disease that affects guava trees. Control measures include applying copper-based fungicides during the rainy season, pruning infected leaves and branches, and ensuring proper spacing between trees for better air circulation.<br>
+<strong>Rust - <em>Puccinia psidii</em>:</strong>  Rust is a fungal disease that affects guava trees. Control measures include applying copper-based fungicides during the rainy season, pruning infected leaves and branches, and ensuring proper spacing between trees for better air circulation.<br>
 Treatment:
 - Fungicides: Apply copper-based fungicides during the rainy season to prevent rust. 
 - Pruning: Remove and destroy severely infected leaves and branches. 
 - Proper Spacing: Ensure adequate spacing between trees for better air circulation.<br><br>
 
 <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-<strong>Root-Knot Nematodes - Meloidogyne spp.:</strong>  Root-knot nematodes are soilborne pests that affect guava trees. Control measures include soil solarization before planting, choosing resistant varieties, and incorporating nematode-resistant cover crops into orchard management.<br>
+<strong>Root-Knot Nematodes -<em> Meloidogyne spp.</em>:</strong>  Root-knot nematodes are soilborne pests that affect guava trees. Control measures include soil solarization before planting, choosing resistant varieties, and incorporating nematode-resistant cover crops into orchard management.<br>
 Treatment:
 - Soil Solarization: Solarize the soil before planting guava to reduce nematode populations. 
 - Resistant Varieties: Choose guava varieties that are less susceptible to root-knot nematodes. 
@@ -409,33 +409,33 @@ document.getElementById("resultstrawberry").style.display = "block";
 document.getElementById("resultstrawberry").innerHTML = `
 
 <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-<strong>Gray Mold - Botrytis cinerea:</strong> Gray mold is a fungal disease that affects strawberries. Neem oil can be used as a natural fungicide to prevent and treat infections. It should be diluted according to the bottle specifications and sprayed directly on plants.<br>
+<strong>Gray Mold -<em> Botrytis cinerea</em>:</strong> Gray mold is a fungal disease that affects strawberries. Neem oil can be used as a natural fungicide to prevent and treat infections. It should be diluted according to the bottle specifications and sprayed directly on plants.<br>
 Treatment: Neem oil is one of the best natural fungicides that can be used preemptively as well as after an infection. Dilute the neem solution per the bottle specifications and spray directly on plants to reduce the chances of a botrytis breakout. Neem is a safe compound from a tropical tree, however it can taste pretty gross, so don’t forget to thoroughly wash your berries.<br><br>
 
 
 <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-<strong>Powdery Mildew - Podosphaera aphanis:</strong>  Powdery mildew is a fungal disease that affects strawberries. Homemade baking soda spray and vinegar spray can be effective treatments. The baking soda spray should include a viscous ingredient (oil or soap) to hold the sodium bicarbonate on the leaf surface.<br>
+<strong>Powdery Mildew -<em> Podosphaera aphanis</em>:</strong>  Powdery mildew is a fungal disease that affects strawberries. Homemade baking soda spray and vinegar spray can be effective treatments. The baking soda spray should include a viscous ingredient (oil or soap) to hold the sodium bicarbonate on the leaf surface.<br>
 Treatment:
 - Homemade Baking Soda Spray: This old-time granny remedy is highly effective as long as it includes a secret viscous ingredient (oil or soap) to hold the sodium bicarbonate on the leaf surface. Mix 1 tablespoon baking soda with 1 teaspoon horticultural oil or liquid soap (I like Dr. Bronners) and 1 gallon of water. Spray on the plants every 1-2 weeks.<br>
 - Vinegar Spray: Mix 2-3 tablespoons of apple cider vinegar (about 5% acetic acid) in a gallon of water and spray all over plant surfaces. The acidity kills powdery mildew spores.<br><br>
 
 
 <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-<strong>Leaf spot - Mycospharella fragariae:</strong> Leaf spot is a fungal disease that affects strawberries. Fungicide use is not usually warranted for leaf spot unless the spots are joining together and killing off significant numbers of leaves. In such cases, removing plants and renovating the beds may be necessary.<br>
+<strong>Leaf spot -<em> Mycospharella fragariae</em>:</strong> Leaf spot is a fungal disease that affects strawberries. Fungicide use is not usually warranted for leaf spot unless the spots are joining together and killing off significant numbers of leaves. In such cases, removing plants and renovating the beds may be necessary.<br>
 Treatment: Leaf spot is technically “incurable”. Once it’s on your plants, your only goal is to slow the spread. Because this is mostly an aesthetic issue, researchers say that fungicide use isn’t usually warranted. Leaf spot isn’t a huge issue unless you are noticing spots joining together and killing off significant numbers of leaves. At this point, you may want to remove plants and renovate the beds.<br><br>
 
 
 <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-<strong>Verticillium Wilt - Verticillium dahliae and V. albo-atrum:</strong> Verticillium wilt is a soilborne disease that affects strawberries. It is not treatable with fungicides or fumigants. Optimizing soil health with compost or establishing new raised beds or containers may help manage the disease.<br>
+<strong>Verticillium Wilt - <em>Verticillium dahliae and V. albo-atrum</em>:</strong> Verticillium wilt is a soilborne disease that affects strawberries. It is not treatable with fungicides or fumigants. Optimizing soil health with compost or establishing new raised beds or containers may help manage the disease.<br>
 Treatment: Because verticillium wilt can lie dormant in the soil for many years, it isn’t really a treatable disease. There are no fungicides or fumigants that will eliminate the pathogens. Instead, try to optimize your soil health with plenty of microbially-rich compost, or establish new strawberry raised beds or containers.<br><br>
 
 <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-<strong>Alternaria Fruit Spot - Alternaria alternata:</strong> Alternaria fruit spot is a fungal disease that affects strawberries. Once strawberries are infected, they are not edible. Infected berries should be removed and disposed of, and organic copper fungicides can be used as a last resort.<br>
+<strong>Alternaria Fruit Spot - <em>Alternaria alternata</em>:</strong> Alternaria fruit spot is a fungal disease that affects strawberries. Once strawberries are infected, they are not edible. Infected berries should be removed and disposed of, and organic copper fungicides can be used as a last resort.<br>
 Treatment: Once alternaria starts attacking your strawberries, they won’t be edible anyways. Remove infected berries and throw them away. Organic copper fungicides are available as a last resort.<br><br>
 
 
 <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-<strong>Anthracnose - Colletotrichum sp.:</strong> Anthracnose is a fungal disease that affects strawberries. Control options include copper-based fungicides, but these can build up to toxic levels in the soil. Removing diseased plants and practicing good sanitation measures are important for managing anthracnose.<br>
+<strong>Anthracnose - <em>Colletotrichum sp.</em>:</strong> Anthracnose is a fungal disease that affects strawberries. Control options include copper-based fungicides, but these can build up to toxic levels in the soil. Removing diseased plants and practicing good sanitation measures are important for managing anthracnose.<br>
 Treatment: The main control options for anthracnose are copper-based fungicides, however copper can build up to toxic levels in the soil and harm earthworms or soil microbes. The best treatment for anthracnose is removing diseased plants and following the sanitation measures described above.<br>
 `;
 }
@@ -456,7 +456,7 @@ document.getElementById("resultmangoginger").style.display = "block";
 document.getElementById("resultmangoginger").innerHTML = `
 
 <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-<strong>Soft rot or rhizome rot - Pythium aphanidermatum/ P. vexans / P. myriotylum:</strong> Soft rot or rhizome rot is a disease caused by Pythium species that affects mango ginger. Treatment includes treating seed rhizomes with mancozeb before storage and planting, selecting well-drained soils, using disease-free seed rhizomes, and removing affected plants and drenching the area with mancozeb to prevent spread.<br>
+<strong>Soft rot or rhizome rot - <em>Pythium aphanidermatum/ P. vexans / P. myriotylum</em>:</strong> Soft rot or rhizome rot is a disease caused by Pythium species that affects mango ginger. Treatment includes treating seed rhizomes with mancozeb before storage and planting, selecting well-drained soils, using disease-free seed rhizomes, and removing affected plants and drenching the area with mancozeb to prevent spread.<br>
 Treatment:
 - Treatment of seed rhizomes with mancozeb 0.3% for 30 minutes before storage and once again before planting reduces the incidence of the disease.
 - Cultural practices such as selection of well-drained soils for planting are important for managing the disease, since stagnation of water predisposes the plant to infection.
@@ -465,7 +465,7 @@ Treatment:
 
 
 <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-<strong>Bacterial wilt - Ralstonia solanacearum:</strong> Bacterial wilt is a disease caused by Ralstonia solanacearum that affects mango ginger. Control measures include adopting cultural practices for managing soft rot, treating seed rhizomes with streptocycline before planting, and drenching affected beds with Bordeaux mixture or copper oxychloride.<br>
+<strong>Bacterial wilt - <em>Ralstonia solanacearum</em>:</strong> Bacterial wilt is a disease caused by Ralstonia solanacearum that affects mango ginger. Control measures include adopting cultural practices for managing soft rot, treating seed rhizomes with streptocycline before planting, and drenching affected beds with Bordeaux mixture or copper oxychloride.<br>
 Treatment:
 - The cultural practices adopted for managing soft rot are also to be adopted for bacterial wilt.
 - The seed rhizomes may be treated with streptocycline 200ppm for 30 minutes and shade dried before planting.
@@ -473,7 +473,7 @@ Treatment:
 
 
 <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-<strong>Leaf spot - Phyllosticta zingiberi:</strong> Leaf spot is a disease caused by Phyllosticta zingiberi that affects mango ginger. The disease can be controlled by spraying copper oxychloride or mancozeb.<br>
+<strong>Leaf spot - <em>Phyllosticta zingiberi</em>:</strong> Leaf spot is a disease caused by Phyllosticta zingiberi that affects mango ginger. The disease can be controlled by spraying copper oxychloride or mancozeb.<br>
 Treatment: The disease can be controlled by spraying Copper oxychloride 0.25 % or Mancozeb 0.2%.<br>
 `;
 }
