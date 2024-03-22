@@ -20,45 +20,45 @@ function negativeResult() {
         Systemic fungicides such as pyroquilon and tricyclazole are possible chemicals for controlling the disease.<br>
 
         <img src="./Bacterial Leaf Blight Of Rice.png" alt="Bacterial Leaf Blight Of Rice" width=50px height=50px><br>
-        <strong>Bacterial Leaf Blight Of Rice - <i>Xanthomonas oryzae </i>:</strong>
+        <strong>Bacterial Leaf Blight Of Rice - <em>Xanthomonas oryzae </em>:</strong>
          This disease is caused by a bacterium and can be controlled by spraying Streptomycin sulphate + Tetracycline combination along with Copper oxychloride. Additionally, bleaching powder can be used in the irrigation water.<br>
         Spray Streptomycin sulphate + Tetracycline combination 300 g + Copper oxychloride 1.25kg/ha. If necessary repeat 15 days later. Application of bleaching powder @ 5 kg/ha in the irrigation water is recommended in the kresek stage.<br>
         
         <img src="./Sheath Rot Of Rice.jpeg" alt="White Clover Mosaic">
-        <strong>Sheath Rot Of Rice - <i>Sarocladium oryzae</i>:</strong> Seed treatment with fungicides like Mancozeb and Benomyl can eliminate seedborne inoculum. Foliar spraying with carbendazim, edifenphos, or mancozeb at the booting stage can reduce sheath rot.<br>
+        <strong>Sheath Rot Of Rice - <em>Sarocladium oryzae</em>:</strong> Seed treatment with fungicides like Mancozeb and Benomyl can eliminate seedborne inoculum. Foliar spraying with carbendazim, edifenphos, or mancozeb at the booting stage can reduce sheath rot.<br>
         Seed treatment with fungicides such as Mancozeb and Benomyl effectively eliminates seedborne inoculum. At booting stage, foliar spraying with carbendazim, edifenphos, or mancozeb was found to reduce sheath rot. Spray Carbendazim 250 g or Chlorothalonil 1 kg or Edifenphos 1 lit/ha.<br>
        
         <img src="./Rice Brown Spot.jpeg" alt="White Clover Mosaic">
-        <strong>Rice Brown Spot - Helminthosporium oryzae:</strong>Fungicides like iprodione, propiconazole, azoxystrobin, trifloxystrobin, and carbendazim can be used as seed treatments. Hot water treatment before planting can also help control primary infection.<br>
+        <strong>Rice Brown Spot - <em>Helminthosporium oryzae</em>:</strong>Fungicides like iprodione, propiconazole, azoxystrobin, trifloxystrobin, and carbendazim can be used as seed treatments. Hot water treatment before planting can also help control primary infection.<br>
          Use fungicides (e.g., iprodione, propiconazole, azoxystrobin, trifloxystrobin, and carbendazim) as seed treatments. Treat seeds with hot water (53−54°C) for 10−12 minutes before planting, to control primary infection at the seedling stage.<br>
         
 
          <img src="./False Smut Of Rice.jpg" alt="White Clover Mosaic">
-         <strong>False Smut Of Rice - Ustilaginoidea virens:</strong>Spraying copper oxychloride or Propiconazole at specific stages can prevent fungal infection. Seed treatment with carbendazim is also recommended.<br>
+         <strong>False Smut Of Rice - <em>Ustilaginoidea virens</em>:</strong>Spraying copper oxychloride or Propiconazole at specific stages can prevent fungal infection. Seed treatment with carbendazim is also recommended.<br>
          Spraying of copper oxychloride at 2.5 g/litre or Propiconazole at 1.0 ml/litre at boot leaf and milky stages will be more useful to prevent the fungal infection. Seed treatment with carbendazim 2.0g/kg of seeds.<br>
         
 
          <img src="./Sheath Blight Of Rice.jpeg" alt="White Clover Mosaic">
-         <strong>Sheath Blight Of Rice - Rhizoctonia solani:</strong>Foliar fungicides like Carbendazim and Propiconazole can be used for control.<br>
+         <strong>Sheath Blight Of Rice - <em>Rhizoctonia solani</em>:</strong>Foliar fungicides like Carbendazim and Propiconazole can be used for control.<br>
          Control of sheath blight has been mainly through the use of foliar fungicides. Carbendazim (1 g/lit), Propiconazole (1ml/lit) may be applied. Spray Carbendazim 250 g or Chlorothalonil 1 kg or Edifenphos 1 lit/ha.<br>
        
 
          <img src="./Tungro Disease Of Rice.jpg" alt="White Clover Mosaic">
-         <strong>Tungro Disease Of Rice - Rice Tungro virus (RTSV and RTBV):</strong>Insect vector control using Carbofuran granules is recommended.<br>
+         <strong>Tungro Disease Of Rice - <em>Rice Tungro virus (RTSV and RTBV)</em>:</strong>Insect vector control using Carbofuran granules is recommended.<br>
          In nursery when virus infection is low, apply Carbofuran granules @ 1 kg./ha to control vector population. During pre-tillering to mid-tillering when one affected hill/m is observed apply Carbofuran granules @ 3.5kg/ha to control insect vector.<br>
         
 
          <img src="./Foolish Seedling Disease.jpg" alt="White Clover Mosaic">
-         <strong>Foot rot / Bakanae / Foolish Seedling Disease - Gibberella fujikuroi:</strong>Seed treatment using fungicides like thiram, thiophanate-methyl, or benomyl is effective.<br>
+         <strong>Foot rot / Bakanae / Foolish Seedling Disease - <em>Gibberella fujikuroi<em>:</strong>Seed treatment using fungicides like thiram, thiophanate-methyl, or benomyl is effective.<br>
          Seed treatment using fungicides such as thiram, thiophanate-methyl, or benomyl is effective before planting. Benomyl or benomyl-t at 1-2% of seed weight should be used for dry seed coating.<br>
         
 
          <img src="./Stem Rot Of Rice.jpeg" alt="White Clover Mosaic">
-         <strong>Stem Rot Of Rice - Sclerotium oryzae:</strong>Chemicals like fentin hydroxide and thiophanate-methyl can be sprayed to reduce stem rot incidence.<br>
+         <strong>Stem Rot Of Rice - <em>Sclerotium oryzae</em>:</strong>Chemicals like fentin hydroxide and thiophanate-methyl can be sprayed to reduce stem rot incidence.<br>
          Chemicals such as fentin hydroxide sprayed at the mid-tillering stage, thiophanate-methyl sprayed at the time of disease initiation can reduce stem rot incidence in the rice field. The use of other fungicides such as Ferimzone and validamycin A also effective against the fungus.<br>
         
          <img src="./Grassy Stunt Disease Of Rice.jpeg" alt="White Clover Mosaic">
-         <strong>Grassy Stunt Disease Of Rice - Rice grassy stunt tenuivirus:</strong> Managing brown planthopper vectors is crucial for controlling this virus. Insecticides, resistant varieties, and synchronized crop establishment can be used.<br>
+         <strong>Grassy Stunt Disease Of Rice - <em>Rice grassy stunt tenuivirus</em>:</strong> Managing brown planthopper vectors is crucial for controlling this virus. Insecticides, resistant varieties, and synchronized crop establishment can be used.<br>
         To control rice grassy stunt virus, the brown planthopper vectors need to be managed. This can be done either through the use of insecticides, brown plant hopper-resistant varieties, or synchronized crop establishment. Infected stubble needs to be plowed under after harvest to reduce the virus source.
     `;
 }
@@ -77,37 +77,75 @@ function showNegativeResult() {
     document.getElementById("result").style.display = "block";
     document.getElementById("result").innerHTML = `
     <img src="./Black or Stem Rust.jpg" alt="White Clover Mosaic">
-    <strong>Black or Stem Rust:</strong> This is a fungal disease that affects cereal crops. Fungicides like azoxystrobin and cyproconazole can help reduce its impact.<br>
+    <strong>Black or Stem Rust:<em>Puccinia graminis tritici </em>    </strong> <br>
+    Treatment 
+	Fungicides azoxystrobin at 200 g/liter + cyproconazole at 80 g/liter (AmistarXtra 280 SC), tebuconazole (Folicur 250 EC), tebuconazole + tridimenol (Silvacur 375 EC), and tebuconazole (Orius 25 EW) were more effective in reducing stem rust across the sites.
+<br>
+    This is a fungal disease that affects cereal crops. Fungicides like azoxystrobin and cyproconazole can help reduce its impact.<br>
         Fungicides such as azoxystrobin and cyproconazole are effective in reducing stem rust.<br>
 
 
         <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-        <strong>Brown or Leaf Rust:</strong> Another fungal disease affecting cereals, fungicides containing Myclobutanil or Azoxystrobin are effective against it.<br>
+        <strong>Brown or Leaf Rust: <em>Puccinia triticina (P. recondita)</em> </strong><br>
+        Treatment
+Fungicides with the active ingredient Myclobutanil or Azoxystrobin are most effective against rust fungi.
+<br>
+         Another fungal disease affecting cereals, fungicides containing Myclobutanil or Azoxystrobin are effective against it.<br>
         Fungicides with Myclobutanil or Azoxystrobin are effective against rust fungi.<br>
        
 
         <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-        <strong>Yellow or Stripe Rust:</strong>This rust disease affects cereals as well. Control measures include mixed cropping, avoiding excess nitrogenous fertilizers, and using fungicides like Zineb or Propioconazole. <br>
+        <strong>Yellow or Stripe Rust:<em>Puccinia striiformis 
+</em>        </strong> <br>
+Treatment
+Mixed cropping with suitable crops.
+Avoid excess dose of nitrogenous fertilizers.
+Spray Zineb at 2.5 kg/ha or Propioconazole @ 0.1 %.
+<br>
+This rust disease affects cereals as well. Control measures include mixed cropping, avoiding excess nitrogenous fertilizers, and using fungicides like Zineb or Propioconazole. <br>
         Control with mixed cropping, avoiding excess nitrogenous fertilizers, and using Zineb or Propioconazole.<br>
         
 
         <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-        <strong>Loose Smut:</strong> A disease affecting cereals caused by a fungus, it can be controlled by treating seeds with Vitavax before sowing and burying infected ear heads in the soil to prevent further spread.<br>
+        <strong>Loose Smut:<em>Ustilago nuda tritici (Ustilago tritici) 
+</em>        </strong><br>
+Treatment
+            Treat the seed with Vitavax @ 2g/kg seed before sowing. Burry the infected ear heads in the soil, so that secondary spread is avoided.
+<br>
+ A disease affecting cereals caused by a fungus, it can be controlled by treating seeds with Vitavax before sowing and burying infected ear heads in the soil to prevent further spread.<br>
         Treat seeds with Vitavax before sowing and bury infected ear heads in the soil to prevent secondary spread.<br>
         
 
         <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-        <strong>Flag Smut:</strong>This disease can be controlled by treating seeds with carboxin, a fungicide.<br>
+        <strong>Flag Smut:<em> Urocystis tritici
+</em>        </strong><br>
+Treatment
+Treat the seeds with carboxin at 2g /kg.
+<br>
+This disease can be controlled by treating seeds with carboxin, a fungicide.<br>
          Treat seeds with carboxin.<br>
        
 
          <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-         <strong>Hill Bunt or Stinking Smut:</strong> Treat seeds with carboxin or carbendazim, grow during high-temperature periods, and adopt shallow sowing to manage this disease.<br>
+         <strong>Hill Bunt or Stinking Smut:<em>Tilletia caries / T.foetida
+</em>         </strong> <br>
+Treatment
+Treat the seeds with carboxin or carbendazim at 2g/kg.
+Grow the crop during high temperature period.
+Adopt shallow sowing.
+<br>
+Treat seeds with carboxin or carbendazim, grow during high-temperature periods, and adopt shallow sowing to manage this disease.<br>
         Treat seeds with carboxin or carbendazim, grow during high-temperature periods, and adopt shallow sowing.<br>
        
 
         <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-        <strong>Karnal Bunt:</strong>This disease affects wheat and can be managed through good hygiene practices and delaying the drilling of a second wheat crop after harvesting an infected wheat crop.<br>
+        <strong>Karnal Bunt:<em>- Neovassia indica
+</em>        </strong> <br>
+Treatment
+	Good hygiene during harvest, storage, and transport will reduce the chance of the disease spreading to healthy grain. Delaying drilling of a second wheat crop, after harvesting an infected wheat crop, also reduces infection risk.
+
+    <br>
+This disease affects wheat and can be managed through good hygiene practices and delaying the drilling of a second wheat crop after harvesting an infected wheat crop.<br>
          Practice good hygiene and delay drilling of a second wheat crop after harvesting an infected wheat crop.<br>
         
 
@@ -118,17 +156,32 @@ function showNegativeResult() {
        
 
         <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-        <strong>Foot Rot:</strong>  Manage this disease by following crop rotation practices and treating seeds with Carboxin or Carbendazim.<br>
+        <strong>Foot Rot:<em> Fusarium graminearum
+</em>        </strong> <br>
+Treatment 
+	Strobilurins like pyraclostrobin (Insignia or Pageant) or azoxystrobin (Heritage) are often some of the most effective
+<br>
+ Manage this disease by following crop rotation practices and treating seeds with Carboxin or Carbendazim.<br>
         Follow crop rotation and treat seeds with Carboxin or Carbendazim.<br>
        
 
         <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-        <strong>Powdery Mildew:</strong> A fungal disease affecting a wide range of plants, it can be controlled by spraying the crop with Wettable Sulphur or Carbendazim.<br>
+        <strong>Powdery Mildew:<em>Pythium graminicolumand P. arrhenoma/nes
+</em>        </strong>Treatment
+Follow crop rotation.
+Treat the seeds with Carboxin or Carbendazim at 2g/kg.
+<br>
+ A fungal disease affecting a wide range of plants, it can be controlled by spraying the crop with Wettable Sulphur or Carbendazim.<br>
          Spray Wettable Sulphur or Carbendazim.<br>
        
 
          <img src="./Brown or Leaf Rust.jpg" alt="White Clover Mosaic">
-         <strong>Leaf Blight:</strong>This disease affects cereals like maize and wheat. Control measures include spraying the crop with Mancozeb or Zineb.<br>
+         <strong>Leaf Blight:<em>Alternaria triticina / Bipolaris sorokiniana
+</em>         </strong><br>
+Treatment
+	Spray the crop with Mancozeb or Zineb at 2 kg/ha.
+
+This disease affects cereals like maize and wheat. Control measures include spraying the crop with Mancozeb or Zineb.<br>
          Spray the crop with Mancozeb or Zineb.<br>
     `;
 }
