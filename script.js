@@ -15,17 +15,17 @@ function negativeResult() {
     document.getElementById("resultrice").style.display = "block";
     document.getElementById("resultrice").innerHTML = `
     <img src="./Rice Blast.jpg" alt="White Clover Mosaic" width=70px height=70px><br>
-        <strong>Rice Blast - Magnaporthe grisea:</strong>
+        <strong>Rice Blast -<i> Magnaporthe grisea</i>:</strong>
          This is a fungal disease that affects rice. Systemic fungicides like pyroquilon and tricyclazole can help control it.<br>
         Systemic fungicides such as pyroquilon and tricyclazole are possible chemicals for controlling the disease.<br>
 
         <img src="./Bacterial Leaf Blight Of Rice.png" alt="Bacterial Leaf Blight Of Rice" width=50px height=50px><br>
-        <strong>Bacterial Leaf Blight Of Rice - Xanthomonas oryzae:</strong>
+        <strong>Bacterial Leaf Blight Of Rice - <i>Xanthomonas oryzae </i>:</strong>
          This disease is caused by a bacterium and can be controlled by spraying Streptomycin sulphate + Tetracycline combination along with Copper oxychloride. Additionally, bleaching powder can be used in the irrigation water.<br>
         Spray Streptomycin sulphate + Tetracycline combination 300 g + Copper oxychloride 1.25kg/ha. If necessary repeat 15 days later. Application of bleaching powder @ 5 kg/ha in the irrigation water is recommended in the kresek stage.<br>
         
         <img src="./Sheath Rot Of Rice.jpeg" alt="White Clover Mosaic">
-        <strong>Sheath Rot Of Rice - Sarocladium oryzae:</strong> Seed treatment with fungicides like Mancozeb and Benomyl can eliminate seedborne inoculum. Foliar spraying with carbendazim, edifenphos, or mancozeb at the booting stage can reduce sheath rot.<br>
+        <strong>Sheath Rot Of Rice - <i>Sarocladium oryzae</i>:</strong> Seed treatment with fungicides like Mancozeb and Benomyl can eliminate seedborne inoculum. Foliar spraying with carbendazim, edifenphos, or mancozeb at the booting stage can reduce sheath rot.<br>
         Seed treatment with fungicides such as Mancozeb and Benomyl effectively eliminates seedborne inoculum. At booting stage, foliar spraying with carbendazim, edifenphos, or mancozeb was found to reduce sheath rot. Spray Carbendazim 250 g or Chlorothalonil 1 kg or Edifenphos 1 lit/ha.<br>
        
         <img src="./Rice Brown Spot.jpeg" alt="White Clover Mosaic">
