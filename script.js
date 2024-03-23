@@ -2,10 +2,10 @@
 function positiveResult(){
     document.getElementById("resultrice").style.display = "block";
     document.getElementById("resultrice").innerHTML =`
-    <strong> Rice - Bacillus spp : </strong>Phosphate-Solubilizing <br>
-    <strong> Rice - Azospirillum : </strong>Gibberellins-Development of plant growth <br>
-    <strong> Rice - Pseudomonas spp : </strong>Siderophore-Protection against phytopathogens<br>
-    <strong> Rice - Rice - Azospirillum : </strong>Nitrogen fixation<br>
+    <strong> Rice -<em> Bacillus spp </em>: </strong>Phosphate-Solubilizing <br>
+    <strong> Rice - <em>Azospirillum </em>: </strong>Gibberellins-Development of plant growth <br>
+    <strong> Rice - <em>Pseudomonas spp</em> : </strong>Siderophore-Protection against phytopathogens<br>
+    <strong> Rice - Rice -<em> Azospirillum <em>: </strong>Nitrogen fixation<br>
 
     ` ;
 
@@ -67,9 +67,9 @@ function negativeResult() {
 function showPositiveResult() {
     document.getElementById("result").style.display = "block";
     document.getElementById("result").innerHTML = `
-        <strong>Azospirillum lipoferum:</strong> Development of root system<br>
-        <strong>Bacillus sp.:</strong> Phosphate-Solubilizing<br>
-        <strong>Azotobacter:</strong> Nitrogen fixation
+        <strong>Azospirillum lipoferum:</strong> <em>Development of root system </em><br>
+        <strong>Bacillus sp.:</strong> <em>Phosphate-Solubilizing </em><br>
+        <strong>Azotobacter:</strong> <em>Nitrogen fixation </em>
     `;
 }
 
@@ -191,7 +191,7 @@ This disease affects cereals like maize and wheat. Control measures include spra
 function positiveResultMaize(){
     document.getElementById("resultmaize").style.display = "block";
     document.getElementById("resultmaize").innerHTML = `
-        <strong>Maize - Bacillus amyloliquefaciens:</strong> Enhance salt tolerance & chlorophyll<br>
+        <strong>Maize - <em>Bacillus amyloliquefaciens </em>:</strong> Enhance salt tolerance & chlorophyll<br>
     `;
 }
 
@@ -227,7 +227,7 @@ function negativeResultMaize() {
 function positiveResultFieldMustard(){
     document.getElementById("resultfieldmustard").style.display = "block";
     document.getElementById("resultfieldmustard").innerHTML = `
-        <strong>Field Mustard - Bacillus spp.:</strong> Promoted root & shoot elongation<br>
+        <strong>Field Mustard - <em>Bacillus spp.</em>:</strong> Promoted root & shoot elongation<br>
     `;
 }
 
@@ -265,7 +265,7 @@ function negativeResultFieldMustard() {
 function positiveResultCucumber(){
     document.getElementById("resultcucumber").style.display = "block";
     document.getElementById("resultcucumber").innerHTML = `
-        <strong>Cucumber - Stenotrophomonas maltophilia:</strong> Prevent diseases<br>
+        <strong>Cucumber - <em>Stenotrophomonas maltophilia </em>:</strong> Prevent diseases<br>
     `;
 }
 
@@ -297,9 +297,9 @@ function negativeResultCucumber() {
 function positiveResultWatermelon(){
 document.getElementById("resultwatermelon").style.display = "block";
 document.getElementById("resultwatermelon").innerHTML = `
-<strong>Watermelon - Paenibacillus polymyxa:</strong> Prevent diseases, root development<br>
-<strong>Watermelon - Bacillus spp.:</strong> Prevent diseases & Nematode<br>
-<strong>Watermelon - Rhizobium undicola:</strong> Nitrogen fixation<br>
+<strong>Watermelon - <em>Paenibacillus polymyxa </em>:</strong> Prevent diseases, root development<br>
+<strong>Watermelon - <em>Bacillus spp.</em>:</strong> Prevent diseases & Nematode<br>
+<strong>Watermelon - <em>Rhizobium undicola</em>:</strong> Nitrogen fixation<br>
 `;
 }
 
@@ -341,7 +341,7 @@ Treatment: For the management of WBNV in watermelon, an Integrated Pest Manageme
 function positiveResultGuava(){
 document.getElementById("resultguava").style.display = "block";
 document.getElementById("resultguava").innerHTML = `
-<strong>Guava - Staphylococcus:</strong> Promote the Growth under Adverse Environmental Conditions<br>
+<strong>Guava - <em>Staphylococcus</em>:</strong> Promote the Growth under Adverse Environmental Conditions<br>
 `;
 }
 
@@ -398,9 +398,9 @@ Treatment:
 function positiveResultStrawberry(){
 document.getElementById("resultstrawberry").style.display = "block";
 document.getElementById("resultstrawberry").innerHTML = `
-<strong>Strawberry - Alcaligenes:</strong> Prevent diseases<br>
-<strong>Strawberry - Bacillus spp.:</strong> Phosphate-Solubilizing<br>
-<strong>Strawberry - Pantoea:</strong> Nitrogen fixation<br>
+<strong>Strawberry - <em>Alcaligenes</em>:</strong> Prevent diseases<br>
+<strong>Strawberry - <em>Bacillus spp</em>.:</strong> Phosphate-Solubilizing<br>
+<strong>Strawberry - <em>Pantoea</em>:</strong> Nitrogen fixation<br>
 `;
 }
 
@@ -444,10 +444,10 @@ Treatment: The main control options for anthracnose are copper-based fungicides,
 function positiveResultMangoGinger(){
 document.getElementById("resultmangoginger").style.display = "block";
 document.getElementById("resultmangoginger").innerHTML = `
-<strong>Mango Ginger - Bacillus spp.:</strong> Root development, Phosphate-Solubilizing and Prevent diseases<br>
-<strong>Mango Ginger - Pseudomonas spp.:</strong> Induce plant growth<br>
-<strong>Mango Ginger - Pseudomonas putida:</strong> Tolerated to maximum salt concentration<br>
-<strong>Mango Ginger - Azotobacter chroococcum:</strong> Nitrogen fixation<br>
+<strong>Mango Ginger - <em>Bacillus spp</em>.:</strong> Root development, Phosphate-Solubilizing and Prevent diseases<br>
+<strong>Mango Ginger - <em>Pseudomonas spp</em>.:</strong> Induce plant growth<br>
+<strong>Mango Ginger - <em>Pseudomonas putida</em>:</strong> Tolerated to maximum salt concentration<br>
+<strong>Mango Ginger - <em>Azotobacter chroococcum</em>:</strong> Nitrogen fixation<br>
 `;
 }
 
