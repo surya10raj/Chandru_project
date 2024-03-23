@@ -1,4 +1,4 @@
-/* styles.css */
+/* medicinal.css */
 
 /* Resetting default margin and padding for all elements */
 * {
@@ -28,10 +28,9 @@ header h1 {
 
 /* Styling navigation */
 nav {
-    background-color: #333;
-    color: #fff;
-    padding: 10px 0;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
 }
 
 nav a {
@@ -92,14 +91,23 @@ button {
     cursor: pointer;
     padding: 10px 20px;
     margin-right: 10px;
-    background-color: #333;
-    color: #fff;
     border: none;
     border-radius: 5px;
 }
 
+/* Different colors for buttons */
+button:nth-of-type(odd) {
+    background-color: #27ae60; /* Green */
+    color: #fff;
+}
+
+button:nth-of-type(even) {
+    background-color: #f39c12; /* Orange */
+    color: #fff;
+}
+
 button:hover {
-    background-color: #555;
+    opacity: 0.8;
 }
 
 /* Styling result divs */

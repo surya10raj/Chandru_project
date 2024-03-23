@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact Form</title>
+<link rel="stylesheet" href="./contact.css">
+</head>
+<body>
+    <nav>
+        <h1>MICROBES WITH PLANTS</h1>
+        <a href="./index.html">Home</a>
+        <a href="./about.html">About</a>
+        <div class="dropdown">
+            <button class="dropbtn">Category</button>
+            <div class="dropdown-content">
+                <a href="food_crops.html">Food crops</a>
+                <a href="non_food_crops.html">Non-Food crops</a>
+                <a href="livestock.html">livestock</a>
+                <a href="ornamental_plants.html">Ornamental plants</a>
+                <a href="Medicinal plants.html">Medicinal plants</a>
+            </div>
+        </div>
+        <a href="./contact.html">Contact</a>
+    </nav>
+    </nav>
+<div class="container">
+    <h2>Contact Us</h2>
+    <form id="contactForm" action="#" method="POST">
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="message">Message</label>
+        <textarea id="message" name="message" required></textarea>
+
+        <button type="submit">Submit</button>
+    </form>
+   
+</body>
+</html>
