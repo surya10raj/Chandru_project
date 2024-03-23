@@ -62,7 +62,7 @@ function showNegative(plant) {
     }
 }
 
-function positiveResult(){
+function positiveResultjute(){
     document.getElementById("resultjute").style.display = "block";
     document.getElementById("resultjute").innerHTML =`
     <h3>Positive Aspects</h3>
@@ -74,7 +74,7 @@ function positiveResult(){
     ` ;
 }
 
-function negativeResult() {
+function negativeResultjute() {
     document.getElementById("resultjute").style.display = "block";
     document.getElementById("resultjute").innerHTML = `
     <h3>Negative Aspects</h3>
