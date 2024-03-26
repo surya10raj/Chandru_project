@@ -97,7 +97,7 @@ function negativeResultindian() {
     document.getElementById("resultIndianRosewood").innerHTML = `
     <h3>Negative Aspects</h3>
     <ul>
-    <img src="./Fusarium wilt.jpg" alt="White Clover Mosaic" width=70px height=70px><br>
+    <img src="./Fusarium wilt.jpeg" alt="White Clover Mosaic" width=70px height=70px><br>
 
         <li>Fusarium wilt -<em> Fusarium oxysporum </em>: There is no effective fungicide or other cure for Fusarium wilt. The pathogen nearly always kills infected hosts. Prevention and exclusion are the only effective management strategies. Avoid this problem by replanting at that site using species from different genera than plants previously infected there by Fusarium.</li>
     </ul>
@@ -200,7 +200,7 @@ function negativeResultcommon() {
     document.getElementById("resultVetch").style.display = "block";
     document.getElementById("resultVetch").innerHTML = `
     <h3>Negative Aspects</h3>
-    <img src="./Gray mold.jpeg" alt="White Clover Mosaic" width=70px height=70px><br>
+    <img src="./Gray Mold.jpeg" alt="White Clover Mosaic" width=70px height=70px><br>
 
     <p>Gray mold - Botrytis cinerea</p>
     <p><strong>Treatment:</strong> Fungicides for the home garden that contain chlorothalonil can be used on most vegetable crops for gray mold control. Check the product label for the pre-harvest interval. Gray mold on grapes, blueberries, peaches, nectarines, and plums can be controlled with sprays of captan.</p>

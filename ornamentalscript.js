@@ -13,7 +13,7 @@ function negativeResultsliver() {
     document.getElementById("resultSilverNervePlant").innerHTML = `
     <h3>Negative Aspects</h3>
     <ul>
-    <img src="./Powdery mildew.jpeg" alt="White Clover Mosaic" width=70px height=70px><br>
+    <img src="./Powdery Mildew.jpeg" alt="White Clover Mosaic" width=70px height=70px><br>
  
     <li><strong>Powdery mildew - Podosphaera xanthii:</strong> To eradicate mild to heavy powdery mildew infections, use a horticultural oil such as JMS Stylet Oil, Saf-T-Side Spray Oil, Sunspray Ultra-Fine Spray Oil, or one of the plant-based oils such as neem oil (e.g., Powdery Mildew Killer) or jojoba oil (e.g., E-rase).</li>
     <img src="./Leaf spot.jpg" alt="White Clover Mosaic" width=70px height=70px><br>
@@ -39,7 +39,7 @@ function negativeResultfibre() {
     document.getElementById("resultFibreOpticGrass").innerHTML = `
     <h3>Negative Aspects</h3>
     <ul>
-    <img src="./powdery Mildew.jpeg" alt="White Clover Mosaic" width=70px height=70px><br>
+    <img src="./POWDERY MILDEW.jpg" alt="White Clover Mosaic" width=70px height=70px><br>
 
         <li><strong>POWDERY MILDEW - Podosphaera xanthii:</strong> To eradicate mild to heavy powdery mildew infections, use a horticultural oil such as JMS Stylet Oil, Saf-T-Side Spray Oil, Sunspray Ultra-Fine Spray Oil, or one of the plant-based oils such as neem oil (e.g., Powdery Mildew Killer) or jojoba oil (e.g., E-rase).</li>
     </ul>
