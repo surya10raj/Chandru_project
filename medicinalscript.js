@@ -3,7 +3,7 @@ function positiveResultwhite(){
     document.getElementById("resultWhitePoplar").innerHTML =`
     <h3>Positive Aspects</h3>
     <ul>
-        <li>White poplar - Rhizobium cellulosilyticum: Improve yield & Nitrogen fixation</li>
+        <li>White poplar - <em>Rhizobium cellulosilyticum</em>: Improve yield & Nitrogen fixation</li>
     </ul>
     ` ;
 }
@@ -13,12 +13,24 @@ function negativeResultwhite() {
     document.getElementById("resultWhitePoplar").innerHTML = `
     <h3>Negative Aspects</h3>
     <ul>
-        <li><strong>Trunk rot - Phellinus igniarius:</strong> There are no known controls.</li>
-        <li><strong>Hypoxylon canker - Hypoxylon mammatum:</strong> Pruning and disposing of infected wood can reduce the chance of further infection. Fertilize trees in the spring and water during dry weather to maintain tree vigor. There are no effective chemical controls.</li>
-        <li><strong>Cytospora canker and twig blight - Cytospora chrysosperma:</strong> Pruning and disposing of infected wood can reduce the chance of further infection. Fertilize trees in the spring and water during dry weather to maintain tree vigor. There are no effective chemical controls.</li>
-        <li><strong>Anthracnose - Marssonina spp.:</strong> Usually this is not serious enough to require chemical control. Fertilize trees in the spring and water during dry weather to maintain tree vigor.</li>
-        <li><strong>Rusts - Melampsora spp.:</strong> Take and dispose of fallen leaves to reduce the chance of infection in the following season. Fertilize trees in the spring and water during dry weather to maintain tree vigor. Since this disease is usually not a serious problem for the health of the trees, chemical controls are usually not necessary.</li>
-        <li><strong>Wetwood - Corynebacterium humiferum:</strong> There are no known controls.</li>
+    <img src="./Trunk rot.jpg" alt="White Clover Mosaic" width=70px height=70px><br>
+
+        <li><strong>Trunk rot -<em> Phellinus igniarius:</strong> There are no known controls</em>.</li>
+        <img src="./Hypoxylon canker.jpg" alt="White Clover Mosaic" width=70px height=70px><br>
+
+        <li><strong>Hypoxylon canker -<em> Hypoxylon mammatum</em>:</strong> Pruning and disposing of infected wood can reduce the chance of further infection. Fertilize trees in the spring and water during dry weather to maintain tree vigor. There are no effective chemical controls.</li>
+        <img src="./Cytospora canker and twig blight.jpg" alt="White Clover Mosaic" width=70px height=70px><br>
+
+        <li><strong>Cytospora canker and twig blight -<em> Cytospora chrysosperma</em>:</strong> Pruning and disposing of infected wood can reduce the chance of further infection. Fertilize trees in the spring and water during dry weather to maintain tree vigor. There are no effective chemical controls.</li>
+        <img src="./Anthracnose.jpeg" alt="White Clover Mosaic" width=70px height=70px><br>
+
+        <li><strong>Anthracnose - <em>Marssonina spp</em>.:</strong> Usually this is not serious enough to require chemical control. Fertilize trees in the spring and water during dry weather to maintain tree vigor.</li>
+        <img src="./Rusts.jpg" alt="White Clover Mosaic" width=70px height=70px><br>
+
+        <li><strong>Rusts - <em>Melampsora spp</em>.:</strong> Take and dispose of fallen leaves to reduce the chance of infection in the following season. Fertilize trees in the spring and water during dry weather to maintain tree vigor. Since this disease is usually not a serious problem for the health of the trees, chemical controls are usually not necessary.</li>
+        <img src="./Wetwood.jpg" alt="White Clover Mosaic" width=70px height=70px><br>
+
+        <li><strong>Wetwood - <em>Corynebacterium humiferum</em>:</strong> There are no known controls.</li>
     </ul>
     `;
 }
@@ -29,7 +41,7 @@ function positiveResultpowder(){
     document.getElementById("resultPowderPuff").innerHTML =`
     <h3>Positive Aspects</h3>
     <ul>
-        <li>Powder puff - Rhizobium calliandrae: Nitrogen Fixation</li>
+        <li>Powder puff - <em>Rhizobium calliandrae</em>: Nitrogen Fixation</li>
     </ul>
     ` ;
 }
@@ -51,7 +63,7 @@ function positiveResultsensitive(){
     document.getElementById("resultSensitivePlant").innerHTML =`
     <h3>Positive Aspects</h3>
     <ul>
-        <li>Sensitive Plant - Rhizobium mesoamericanum: Nitrogen Fixation</li>
+        <li>Sensitive Plant -<em> Rhizobium mesoamericanum </em>: Nitrogen Fixation</li>
     </ul>
     ` ;
 }
@@ -61,7 +73,9 @@ function negativeResultsensitive() {
     document.getElementById("resultSensitivePlant").innerHTML = `
     <h3>Negative Aspects</h3>
     <ul>
-        <li>Stem-spot - Corynespora cassiicola: If you have a problem with any of the fungi causing stem rot, a fresh start with healthy soil in a raised bed might be the best solution. Improve Air Circulation. Always ensure proper air circulation and give plants ample pace.</li>
+    <img src="./Stem-spot.jpg" alt="White Clover Mosaic" width=70px height=70px><br>
+
+        <li>Stem-spot - <em>Corynespora cassiicola</em>: If you have a problem with any of the fungi causing stem rot, a fresh start with healthy soil in a raised bed might be the best solution. Improve Air Circulation. Always ensure proper air circulation and give plants ample pace.</li>
     </ul>
     `;
 }
@@ -73,7 +87,7 @@ function positiveResultindian(){
     document.getElementById("resultIndianRosewood").innerHTML =`
     <h3>Positive Aspects</h3>
     <ul>
-        <li>Indian Rosewood - Rhizobium mesosinicum: Nitrogen fixation, Antibiotic resistance</li>
+        <li>Indian Rosewood - <em>Rhizobium mesosinicum </em>: Nitrogen fixation, Antibiotic resistance</li>
     </ul>
     ` ;
 }
@@ -83,7 +97,9 @@ function negativeResultindian() {
     document.getElementById("resultIndianRosewood").innerHTML = `
     <h3>Negative Aspects</h3>
     <ul>
-        <li>Fusarium wilt - Fusarium oxysporum: There is no effective fungicide or other cure for Fusarium wilt. The pathogen nearly always kills infected hosts. Prevention and exclusion are the only effective management strategies. Avoid this problem by replanting at that site using species from different genera than plants previously infected there by Fusarium.</li>
+    <img src="./Fusarium wilt.jpg" alt="White Clover Mosaic" width=70px height=70px><br>
+
+        <li>Fusarium wilt -<em> Fusarium oxysporum </em>: There is no effective fungicide or other cure for Fusarium wilt. The pathogen nearly always kills infected hosts. Prevention and exclusion are the only effective management strategies. Avoid this problem by replanting at that site using species from different genera than plants previously infected there by Fusarium.</li>
     </ul>
     `;
 }
@@ -94,6 +110,7 @@ function positiveResultlebbek(){
     document.getElementById("resultLebbekTree").innerHTML =`
     <h3>Positive Aspects</h3>
     <ul>
+
         <li>Lebbek tree - Rhizobium mesosinicum: Nitrogen fixation, Antibiotic resistance</li>
     </ul>
     ` ;
@@ -104,9 +121,17 @@ function negativeResultlebbek() {
     document.getElementById("resultLebbekTree").innerHTML = `
     <h3>Negative Aspects</h3>
     <ul>
+    <img src="./Leaf spot and blight.jpg" alt="White Clover Mosaic" width=70px height=70px><br>
+
         <li>Leaf spot and blight - Cercospora albizziae: Application of Captaf (0.2%) fungicide solution as foliar spray is found effective in controlling the disease problem.</li>
+        <img src="./Seedling wilt.jpg" alt="White Clover Mosaic" width=70px height=70px><br>
+
         <li>Seedling wilt - Fusarium oxysporum: Application of Dithane M-45 (0.3%) or Bavistin (0.2%) fungicidal solution is found effective in controlling the disease problems. Also, treating the seed beds with 0.2% Bavistin solution before sowing prevents the occurrence of disease pathogens.</li>
+        <img src="./Rhizoctonia Leaf Web Blight.jpg" alt="White Clover Mosaic" width=70px height=70px><br>
+
         <li>Rhizoctonia Leaf Web Blight - Rhizoctonia solani: It can be managed through an integrated approach involving measures such as sanitation, cultural practices and use of fungicides. Application of Bayleton (0.1% a.i.) as foliar spray is found very effective in controlling the disease.</li>
+        <img src="./Ravenalia clemensiae.jpg" alt="White Clover Mosaic" width=70px height=70px><br>
+
         <li>Leaf Rust - Ravenalia clemensiae: The disease is controlled by application of 0.2% Dithane M-45 or Sulfax fungicide.</li>
     </ul>
     `;
@@ -147,6 +172,8 @@ function negativeResultwater() {
     document.getElementById("resultMimosa").style.display = "block";
     document.getElementById("resultMimosa").innerHTML = `
     <h3>Negative Aspects</h3>
+    <img src="./Mimosa Wilt.jpg" alt="White Clover Mosaic" width=70px height=70px><br>
+
     <p>Mimosa Wilt - Fusarium oxysporum</p>
     <p><strong>Treatment:</strong></p>
     <ul>
@@ -173,6 +200,8 @@ function negativeResultcommon() {
     document.getElementById("resultVetch").style.display = "block";
     document.getElementById("resultVetch").innerHTML = `
     <h3>Negative Aspects</h3>
+    <img src="./Gray mold.jpeg" alt="White Clover Mosaic" width=70px height=70px><br>
+
     <p>Gray mold - Botrytis cinerea</p>
     <p><strong>Treatment:</strong> Fungicides for the home garden that contain chlorothalonil can be used on most vegetable crops for gray mold control. Check the product label for the pre-harvest interval. Gray mold on grapes, blueberries, peaches, nectarines, and plums can be controlled with sprays of captan.</p>
     <p>Leaf spot - Ascochyta punctata</p>
@@ -199,6 +228,8 @@ function negativeResulttexas() {
     document.getElementById("resultTexas").style.display = "block";
     document.getElementById("resultTexas").innerHTML = `
     <h3>Negative Aspects</h3>
+    <img src="./Damping-of.jpg" alt="White Clover Mosaic" width=70px height=70px><br>
+
     <p>Damping-off - Rhizoctonia solani</p>
     <p><strong>Treatment:</strong></p>
     <ul>
