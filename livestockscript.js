@@ -1,22 +1,18 @@
-function positiveResult(){
-    document.getElementById("resultclover").style.display = "block";
-    document.getElementById("resultclover").innerHTML =`
+function positiveResultClover() {
+    document.getElementById("resultclover").innerHTML = `
     <h3>Positive Aspects</h3>
     <ul>
         <li>White clover - Rhizobium mesosinicum: Nitrogen fixation, Prevent diseases</li>
         <li>White clover - Rhizobium: Nitrogen fixation, Enhance the nutrient uptake of the plant</li>
     </ul>
-    ` ;
+    `;
 }
 
-function negativeResult() {
-    document.getElementById("resultclover").style.display = "block";
+function negativeResultClover() {
     document.getElementById("resultclover").innerHTML = `
     <h3>Negative Aspects</h3>
     <ul>
-        <li><strong>White clover mosaic - White clover mosaic virus (WCMV):</strong> 
-       
-        Fungicides will NOT treat this viral disease, plant resistant varieties when available or purchase transplants from a reputable source, do NOT save seeds from infected crops, spot treat with least-toxic, natural pest control products, such as Safer Soap, Bon-Neem, and diatomaceous earth, to reduce the number of disease-carrying insects, harvest-Guard® row cover will help keep insect pests off vulnerable crops/ transplants and should be installed until bloom, remove all perennial weeds, using least-toxic herbicides, within 100 yards of your garden plot, the virus can be spread through human activity, tools, and equipment. Frequently wash your hands and disinfect garden tools, stakes, ties, pots, greenhouse benches, etc. (one part bleach to 4 parts water) to reduce the risk of contamination, avoid working in the garden during damp conditions (viruses are easily spread when plants are wet), avoid using tobacco around susceptible plants. Cigarettes and other tobacco products may be infected and can spread the virus, remove and destroy all infected plants. Do NOT compost.</li>
+        <li><strong>White clover mosaic - White clover mosaic virus (WCMV):</strong> Fungicides will NOT treat this viral disease, plant resistant varieties when available or purchase transplants from a reputable source, do NOT save seeds from infected crops, spot treat with least-toxic, natural pest control products, such as Safer Soap, Bon-Neem, and diatomaceous earth, to reduce the number of disease-carrying insects, harvest-Guard® row cover will help keep insect pests off vulnerable crops/ transplants and should be installed until bloom, remove all perennial weeds, using least-toxic herbicides, within 100 yards of your garden plot, the virus can be spread through human activity, tools, and equipment. Frequently wash your hands and disinfect garden tools, stakes, ties, pots, greenhouse benches, etc. (one part bleach to 4 parts water) to reduce the risk of contamination, avoid working in the garden during damp conditions (viruses are easily spread when plants are wet), avoid using tobacco around susceptible plants. Cigarettes and other tobacco products may be infected and can spread the virus, remove and destroy all infected plants. Do NOT compost.</li>
         <li><strong>Alfalfa mosaic - Alfalfa mosaic virus (AMV):</strong> The best way to control alfalfa mosaic virus is to avoid planting peppers near alfalfa fields. No resistance is currently available in commercial pepper cultivars.</li>
         <li><strong>Clover phyllody - Mycoplasma:</strong> Remove and destroy infected plants, to control vector, spray NSKE @ 5% or neem oil @ 2%, seed treatment with imidacloprid 600 FS @ 7.5ml/kg, spray Quinalphos 25 EC 800 ml/ac or thiamethoxam 25WG @ 40 g/ac or imidacloprid 17.8SL @ 40 ml/ac, intercropping of Sesamum + Redgram (6:1).</li>
         <li><strong>Clover rot - Sclerotinia trifoliorum:</strong> Remove and Destroy. Immediate removal of white clover plants exhibiting root rot symptoms is critical. This step halts the spread of the disease to neighboring plants. Ensure to dispose of the affected plants properly; do not compost as this can become a source of reinfection.</li>
