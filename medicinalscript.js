@@ -1,4 +1,4 @@
-function positiveResult(){
+function positiveResultwhite(){
     document.getElementById("resultWhitePoplar").style.display = "block";
     document.getElementById("resultWhitePoplar").innerHTML =`
     <h3>Positive Aspects</h3>
@@ -8,7 +8,7 @@ function positiveResult(){
     ` ;
 }
 
-function negativeResult() {
+function negativeResultwhite() {
     document.getElementById("resultWhitePoplar").style.display = "block";
     document.getElementById("resultWhitePoplar").innerHTML = `
     <h3>Negative Aspects</h3>
@@ -24,7 +24,7 @@ function negativeResult() {
 }
 
 
-function positiveResult(){
+function positiveResultpowder(){
     document.getElementById("resultPowderPuff").style.display = "block";
     document.getElementById("resultPowderPuff").innerHTML =`
     <h3>Positive Aspects</h3>
@@ -34,7 +34,7 @@ function positiveResult(){
     ` ;
 }
 
-function negativeResult() {
+function negativeResultpowder() {
     document.getElementById("resultPowderPuff").style.display = "block";
     document.getElementById("resultPowderPuff").innerHTML = `
     <h3>Negative Aspects</h3>
@@ -46,7 +46,7 @@ function negativeResult() {
 
 
 
-function positiveResult(){
+function positiveResultsensitive(){
     document.getElementById("resultSensitivePlant").style.display = "block";
     document.getElementById("resultSensitivePlant").innerHTML =`
     <h3>Positive Aspects</h3>
@@ -56,7 +56,7 @@ function positiveResult(){
     ` ;
 }
 
-function negativeResult() {
+function negativeResultsensitive() {
     document.getElementById("resultSensitivePlant").style.display = "block";
     document.getElementById("resultSensitivePlant").innerHTML = `
     <h3>Negative Aspects</h3>
@@ -68,7 +68,7 @@ function negativeResult() {
 
 
 
-function positiveResult(){
+function positiveResultindian(){
     document.getElementById("resultIndianRosewood").style.display = "block";
     document.getElementById("resultIndianRosewood").innerHTML =`
     <h3>Positive Aspects</h3>
@@ -78,7 +78,7 @@ function positiveResult(){
     ` ;
 }
 
-function negativeResult() {
+function negativeResultindian() {
     document.getElementById("resultIndianRosewood").style.display = "block";
     document.getElementById("resultIndianRosewood").innerHTML = `
     <h3>Negative Aspects</h3>
@@ -89,7 +89,7 @@ function negativeResult() {
 }
 
 
-function positiveResult(){
+function positiveResultlebbek(){
     document.getElementById("resultLebbekTree").style.display = "block";
     document.getElementById("resultLebbekTree").innerHTML =`
     <h3>Positive Aspects</h3>
@@ -99,7 +99,7 @@ function positiveResult(){
     ` ;
 }
 
-function negativeResult() {
+function negativeResultlebbek() {
     document.getElementById("resultLebbekTree").style.display = "block";
     document.getElementById("resultLebbekTree").innerHTML = `
     <h3>Negative Aspects</h3>
@@ -113,7 +113,7 @@ function negativeResult() {
 }
 
 
-function positiveResult(){
+function positiveResultalkali(){
     document.getElementById("resultSwainsonpea").style.display = "block";
     document.getElementById("resultSwainsonpea").innerHTML =`
     <h3>Positive Aspects</h3>
@@ -123,7 +123,7 @@ function positiveResult(){
     ` ;
 }
 
-function negativeResult() {
+function negativeResultalkali() {
     document.getElementById("resultSwainsonpea").style.display = "block";
     document.getElementById("resultSwainsonpea").innerHTML = `
     <h3>Negative Aspects</h3>
@@ -133,7 +133,7 @@ function negativeResult() {
 
 
 
-function positiveResult(){
+function positiveResultwater(){
     document.getElementById("resultMimosa").style.display = "block";
     document.getElementById("resultMimosa").innerHTML =`
     <h3>Positive Aspects</h3>
@@ -143,7 +143,7 @@ function positiveResult(){
     ` ;
 }
 
-function negativeResult() {
+function negativeResultwater() {
     document.getElementById("resultMimosa").style.display = "block";
     document.getElementById("resultMimosa").innerHTML = `
     <h3>Negative Aspects</h3>
@@ -159,7 +159,7 @@ function negativeResult() {
 }
 
 
-function positiveResult(){
+function positiveResultcommon(){
     document.getElementById("resultVetch").style.display = "block";
     document.getElementById("resultVetch").innerHTML =`
     <h3>Positive Aspects</h3>
@@ -169,7 +169,7 @@ function positiveResult(){
     ` ;
 }
 
-function negativeResult() {
+function negativeResultcommon() {
     document.getElementById("resultVetch").style.display = "block";
     document.getElementById("resultVetch").innerHTML = `
     <h3>Negative Aspects</h3>
@@ -185,7 +185,7 @@ function negativeResult() {
 }
 
 
-function positiveResult(){
+function positiveResulttexas(){
     document.getElementById("resultTexas").style.display = "block";
     document.getElementById("resultTexas").innerHTML =`
     <h3>Positive Aspects</h3>
@@ -195,7 +195,7 @@ function positiveResult(){
     ` ;
 }
 
-function negativeResult() {
+function negativeResulttexas() {
     document.getElementById("resultTexas").style.display = "block";
     document.getElementById("resultTexas").innerHTML = `
     <h3>Negative Aspects</h3>

@@ -1,4 +1,4 @@
-function positiveResult(){
+function positiveResultsilver(){
     document.getElementById("resultSilverNervePlant").style.display = "block";
     document.getElementById("resultSilverNervePlant").innerHTML =`
     <h3>Positive Aspects</h3>
@@ -8,7 +8,7 @@ function positiveResult(){
     ` ;
 }
 
-function negativeResult() {
+function negativeResultsliver() {
     document.getElementById("resultSilverNervePlant").style.display = "block";
     document.getElementById("resultSilverNervePlant").innerHTML = `
     <h3>Negative Aspects</h3>
@@ -20,7 +20,7 @@ function negativeResult() {
 }
 
 
-function positiveResult(){
+function positiveResultfibre(){
     document.getElementById("resultFibreOpticGrass").style.display = "block";
     document.getElementById("resultFibreOpticGrass").innerHTML =`
     <h3>Positive Aspects</h3>
@@ -30,7 +30,7 @@ function positiveResult(){
     ` ;
 }
 
-function negativeResult() {
+function negativeResultfibre() {
     document.getElementById("resultFibreOpticGrass").style.display = "block";
     document.getElementById("resultFibreOpticGrass").innerHTML = `
     <h3>Negative Aspects</h3>
@@ -40,7 +40,7 @@ function negativeResult() {
     `;
 }
 
-function positiveResult(){
+function positiveResultsnake(){
     document.getElementById("resultSnakePlant").style.display = "block";
     document.getElementById("resultSnakePlant").innerHTML =`
     <h3>Positive Aspects</h3>
@@ -50,7 +50,7 @@ function positiveResult(){
     ` ;
 }
 
-function negativeResult() {
+function negativeResultsnake() {
     document.getElementById("resultSnakePlant").style.display = "block";
     document.getElementById("resultSnakePlant").innerHTML = `
     <h3>Negative Aspects</h3>
@@ -64,7 +64,7 @@ function negativeResult() {
     `;
 }
 
-function positiveResult(){
+function positiveResultstring(){
     document.getElementById("resultStringOfPearls").style.display = "block";
     document.getElementById("resultStringOfPearls").innerHTML =`
     <h3>Positive Aspects</h3>
@@ -74,7 +74,7 @@ function positiveResult(){
     ` ;
 }
 
-function negativeResult() {
+function negativeResultstring() {
     document.getElementById("resultStringOfPearls").style.display = "block";
     document.getElementById("resultStringOfPearls").innerHTML = `
     <h3>Negative Aspects</h3>
@@ -85,7 +85,7 @@ function negativeResult() {
 }
 
 
-function positiveResult(){
+function positiveResultpeace(){
     document.getElementById("resultPeaceLily").style.display = "block";
     document.getElementById("resultPeaceLily").innerHTML =`
     <h3>Positive Aspects</h3>
@@ -95,7 +95,7 @@ function positiveResult(){
     ` ;
 }
 
-function negativeResult() {
+function negativeResultpeace() {
     document.getElementById("resultPeaceLily").style.display = "block";
     document.getElementById("resultPeaceLily").innerHTML = `
     <h3>Negative Aspects</h3>

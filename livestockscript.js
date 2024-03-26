@@ -26,7 +26,7 @@ function negativeResultClover() {
 }
 
 
-function positiveResult(){
+function positiveResultalfalfa(){
     document.getElementById("resultalfalfa").style.display = "block";
     document.getElementById("resultalfalfa").innerHTML =`
     <h3>Positive Aspects</h3>
@@ -36,7 +36,7 @@ function positiveResult(){
     ` ;
 }
 
-function negativeResult() {
+function negativeResultalfalfa() {
     document.getElementById("resultalfalfa").style.display = "block";
     document.getElementById("resultalfalfa").innerHTML = `
     <h3>Negative Aspects</h3>
@@ -62,7 +62,7 @@ function negativeResult() {
 }
 
 
-function positiveResult(){
+function positiveResulttamarind(){
     document.getElementById("resulttamarind").style.display = "block";
     document.getElementById("resulttamarind").innerHTML =`
     <h3>Positive Aspects</h3>
@@ -73,7 +73,7 @@ function positiveResult(){
     ` ;
 }
 
-function negativeResult() {
+function negativeResulttamarind() {
     document.getElementById("resulttamarind").style.display = "block";
     document.getElementById("resulttamarind").innerHTML = `
     <h3>Negative Aspects</h3>
@@ -86,7 +86,7 @@ function negativeResult() {
 }
 
 
-function positiveResult(){
+function positiveResultdaga(){
     document.getElementById("resultdaga").style.display = "block";
     document.getElementById("resultdaga").innerHTML =`
     <h3>Positive Aspects</h3>
@@ -96,7 +96,7 @@ function positiveResult(){
     ` ;
 }
 
-function negativeResult() {
+function negativeResultdaga() {
     document.getElementById("resultdaga").style.display = "block";
     document.getElementById("resultdaga").innerHTML = `
     <h3>Negative Aspects</h3>
@@ -106,7 +106,7 @@ function negativeResult() {
     `;
 }
 
-function positiveResult(){
+function positiveResultgrasses(){
     document.getElementById("resultgrasses").style.display = "block";
     document.getElementById("resultgrasses").innerHTML =`
     <h3>Positive Aspects</h3>
@@ -116,7 +116,7 @@ function positiveResult(){
     ` ;
 }
 
-function negativeResult() {
+function negativeResultgrasses() {
     document.getElementById("resultgrasses").style.display = "block";
     document.getElementById("resultgrasses").innerHTML = `
     <h3>Negative Aspects</h3>
