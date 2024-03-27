@@ -4,18 +4,18 @@ function showPositive(plant) {
         case "cotton":
             resultDiv.innerHTML = `
                 <h3>Bacillus pumilis</h3>
-                <p>Prevent diseases</p>
+                <p><em>Prevent diseases</em></p>
                 <h3>Azospirillum lipoferum</h3>
-                <p>Induced Systemic Tolerance (IST)</p>
+                <p><em>Induced Systemic Tolerance (IST)</em></p>
                 <h3>Pantoea agglomerans and Azospirillum brasilience</h3>
-                <p>Drought stress tolerance</p>
+                <p><em>Drought stress tolerance</em></p>
                 <!-- Add more positive aspects here -->
             `;
             break;
         case "rubber":
             resultDiv.innerHTML = `
                 <h3>Trichoderma sp.</h3>
-                <p>Phosphate-Solubilizing</p>
+                <p><em>Phosphate-Solubilizing</em></p>
                 <!-- Add more positive aspects here -->
             `;
             break;
